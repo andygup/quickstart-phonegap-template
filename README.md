@@ -23,6 +23,7 @@ NOTE: The current PhoneGap online documentation is pretty bad, so I recommend ju
 1. Fork and then clone the repo or download the .zip file. 
 2. Find the appropriate [platform guide for Android](http://cordova.apache.org/docs/en/3.1.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide) in the Cordova documenation.
 3. Follow the "Open a Project in the SDK" (minus the node.js instructions) for your platform using this repo as the target for the IDE.
+4. Set which sample you want to use in the config.xml <content> tag
 
 ## Testing
 **Option 1** - Push application directly to a device and use console.log statements for troubleshooting.
