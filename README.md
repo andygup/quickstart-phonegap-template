@@ -22,7 +22,7 @@ NOTE: The current PhoneGap online documentation is pretty bad, so I recommend ju
 
 1. Fork and then clone the repo or download the .zip file. 
 2. Find the appropriate [platform guide](http://cordova.apache.org/docs/en/3.1.0/guide_platforms_index.md.html#Platform%20Guides) in the Cordova documenation.
-3. Follow the "Open a Project in the SDK" (minus the node.js instructions) for your platform using this repo as the target.
+3. Follow the "Open a Project in the SDK" (minus the node.js instructions) for your platform using this repo as the target for the IDE.
 
 ## Testing
 **Option 1** - Push application directly to a device and use console.log statements for troubleshooting.
@@ -64,5 +64,3 @@ You may obtain a copy of the License at
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
