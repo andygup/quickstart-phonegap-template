@@ -34,6 +34,8 @@ Here's a good article to check out by [Andy Trice](http://www.tricedesigns.com/2
 
 ## Requirements
 
+* This template was built on Android 4.3 Jelly Bean (API 18). So if you try to compile at a lower API level you will just have to make some modifications to the manifest.
+* Cordova 3.0 (included)
 * Eclipse (Android) or ADT Bundle (Android)
 * Android SDK if you are already using Eclipse
 
