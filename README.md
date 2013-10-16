@@ -1,6 +1,6 @@
-# quickstart-phonegap-template
+# quickstart-phonegap-template-android
 
-Don't want to use node to build PhoneGap/Cordova 3.x apps? If so, then this template is for you!
+Don't want to use node to build PhoneGap/Cordova 3.x apps on Android? If so, then this template is for you!
 
 **No Node.js is required.**
 
@@ -21,7 +21,7 @@ This repo contains one Hello World app and four sample applications. Note these 
 NOTE: The current PhoneGap online documentation is pretty bad, so I recommend just using Cordova and the Cordova documentation. The Cordova documentation works and is correct. I find the PhoneGap documentation mostly incorrect and confusing since some of it was written for older versions of PhoneGap and the instructions may or may not work with the lastest version.
 
 1. Fork and then clone the repo or download the .zip file. 
-2. Find the appropriate [platform guide](http://cordova.apache.org/docs/en/3.1.0/guide_platforms_index.md.html#Platform%20Guides) in the Cordova documenation.
+2. Find the appropriate [platform guide for Android](http://cordova.apache.org/docs/en/3.1.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide) in the Cordova documenation.
 3. Follow the "Open a Project in the SDK" (minus the node.js instructions) for your platform using this repo as the target for the IDE.
 
 ## Testing
@@ -34,9 +34,8 @@ Here's a good article to check out by [Andy Trice](http://www.tricedesigns.com/2
 
 ## Requirements
 
-* A minimum of one device for each mobile platform you want to deploy to.
-* Eclipse (Android) or ADT Bundle (Android) and XCode (iOS)
-* Android SDK if you are deploying to Android
+* Eclipse (Android) or ADT Bundle (Android)
+* Android SDK if you are already using Eclipse
 
 ## Resources
 
